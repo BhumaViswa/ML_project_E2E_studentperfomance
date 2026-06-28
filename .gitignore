@@ -216,3 +216,20 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# artifacts
+artifacts/
+!artifact/.gitkeep
+
+# logs
+logs/
+!logs/.gitkeep
+
+# data
+data/
+!data/.gitkeep
+
+#notebooks
+notebooks/
+!notebooks/.gitkeep
+
